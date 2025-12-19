@@ -31,14 +31,14 @@ It was cleaned and processed before analysis.
 - Distribution plots
 
 ## Project Report
-A detailed project report is available in the (            )
+A detailed project report is available in the ( report file )
 
 
 ## How to Run
 1. Clone the repository
 2. Install required libraries
 3. Open Jupyter Notebook
-4. Run 
+4. Run Python_sql_ecomerce.ipynb
 
 
 ## Author
