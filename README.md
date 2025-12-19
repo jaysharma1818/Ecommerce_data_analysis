@@ -44,6 +44,9 @@ A detailed project report is available in the ( report file )
 ## Author
 Jay Sharma
 
+<img width="761" height="575" alt="Screenshot 2025-12-19 222024" src="https://github.com/user-attachments/assets/be0edcbe-4f4f-4a87-baa5-7064e5f64e5a" />
+<img width="838" height="780" alt="Screenshot 2025-12-19 222002" src="https://github.com/user-attachments/assets/9db98a0e-4fde-4708-aeff-79c88052e9eb" />
 
+<img width="1222" height="673" alt="Screenshot 2025-12-19 221844" src="https://github.com/user-attachments/assets/8458fefd-06ab-47e5-b82c-b97b156058bc" />
 
 
